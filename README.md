@@ -1,4 +1,9 @@
 # agenda
+
+links uteis:
+https://www.npmjs.com/get-npm
+https://classic.yarnpkg.com/en/docs/install/#debian-stable
+
 Para rodar o projeto bastar baixar o repositório e: 
 
 - Abrir o terminal em ambas as pastas e rodar o comando Yarn para baixar as dependencias. 
